@@ -22,3 +22,10 @@
 
 ### DES Project 2 - Instrument Cluster
 - [Instrument Cluster](https://github.com/Changseok-Oh29/PiRacer_Instrument_Cluster_QT)
+
+### DES Project 3 & 4 - Head Unit & PDC
+- [Head Unit & PDC](https://github.com/Changseok-Oh29/DES_PDC)
+
+### Driving Monitoring System & DCAS
+- [Driving Monitoring System & DCAS](https://github.com/ADS-Skynet/DCAS-DMS)
+- [Autonomous Driving](https://github.com/ADS-Skynet/e2e-planner)
