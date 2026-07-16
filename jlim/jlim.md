@@ -14,3 +14,7 @@
 ## Project Links:
 - [SEA-ME-warm-up](https://github.com/leo9044/SEA-ME-warm-up.git)
 - [Leet-Challenge](https://github.com/leo9044/Leet-Challenge.git)
+- [Project1](https://github.com/leo9044/DES_Instrument-Cluster_team06.git)
+- [Project2](https://github.com/leo9044/DES_Head-Unit.git)
+- [Project3](https://github.com/leo9044/PDC_Yocto_Jetson-orin-nano.git)
+- [Project4](https://github.com/leo9044/DCAS.git)
