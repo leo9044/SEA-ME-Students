@@ -11,4 +11,5 @@
 - Major in mechanical engineering and Future Vehicle Technology.
 - I'm interested in Autonomous Driving & computer Vision
 ## Project Links:
-- Links to your SEA:ME repositories.
+[Warm-up](https://github.com/jjangddung/SEA-ME-warm-up)  
+[PiRacer](https://github.com/cmh0728/PiRacer_team1?tab=readme-ov-file)

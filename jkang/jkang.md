@@ -15,3 +15,6 @@
     - If you enjoy watching F1 too, let's watch it together sometime!
 ## Project Links:
 - Warm-up : https://github.com/Ju-Daeng-E/SEA-ME-warm-up
+- Piracer&Cluster Project : https://github.com/Ju-Daeng-E/SEA-ME-RCcarCluster
+- Hacking BWM Gear Selector : https://github.com/Ju-Daeng-E/BMW-GWS
+- Fully remote PiRacer with dual RPi & BMW GWS : https://github.com/Ju-Daeng-E/Hannover_Makers_Fair_Team4
